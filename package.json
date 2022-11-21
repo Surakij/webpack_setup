@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Surakij/webpack_setup/issues"
   },
-  "homepage": "https://github.com/Surakij/webpack_setup#readme"
+  "homepage": "https://github.com/Surakij/webpack_setup#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
