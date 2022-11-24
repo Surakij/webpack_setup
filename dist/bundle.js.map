@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","mappings":"yBAESA,SAASC,cAAc,MAC7BC,UAAY,K","sources":["webpack://webpack_setup/./src/index.js"],"sourcesContent":["import \"../css/style.css\";\r\n\r\nlet h1 = document.querySelector('h1');\r\nh1.innerText = 'yoo';\r\n\r\n"],"names":["document","querySelector","innerText"],"sourceRoot":""}
