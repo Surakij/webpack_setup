@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":"AAAA,KAAM,kBACN,CACA,WAEI,YAAa,CADb,WAEJ,CACA,IAEI,YAAa,CADb,WAEJ","sources":["webpack://webpack_setup/./css/style.css"],"sourcesContent":["body {background: #299d2a\n}\n.explosion {\n    width: 100px;\n    height: 100px;\n}\nimg {\n    width: 200px;\n    height: 200px;\n}"],"names":[],"sourceRoot":""}
